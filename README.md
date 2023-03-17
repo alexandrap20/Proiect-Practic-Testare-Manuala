@@ -35,3 +35,13 @@ Italicized text is the *cat's meow*.
 - unavailability of the test environment 
 - short deadline of Zephyr Squad and Jira tools 
 
+Link catre fisier [Git repo screenshot](https://github.com/alexandrap20/Proiect-Practic-Testare-Manuala/blob/main/repo_git.PNG)
+
+#### How to add links to files or to add code 
+
+I love supporting the **[EFF](https://eff.org)**.
+
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+
+See the section on [`code`](#code).
+
