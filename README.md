@@ -37,6 +37,8 @@ Italicized text is the *cat's meow*.
 
 Link catre fisier [Git repo screenshot](https://github.com/alexandrap20/Proiect-Practic-Testare-Manuala/blob/main/repo_git.PNG)
 
+Link catre fisier [Git repo screenshot](link)
+
 #### How to add links to files or to add code 
 
 I love supporting the **[EFF](https://eff.org)**.
