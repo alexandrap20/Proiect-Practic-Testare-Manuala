@@ -27,6 +27,7 @@ Italicized text is the *cat's meow*.
     2. Indented item
 4. Forth line
 
+![Test image load](https://github.com/alexandrap20/Proiect-Practic-Testare-Manuala/blob/main/repo_git.PNG)
 
 ## Risks:
 ### Project risks: 
