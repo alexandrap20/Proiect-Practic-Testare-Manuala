@@ -11,6 +11,18 @@
 | :-----: | :---: | :---: |
 | Seconds | 301   | 283   |
 
+
+|   |   |
+|---|---|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
+
+|This|is|
+|---|---|
+|Some |table |
+| WITH |header |
+
+
 This is the first line.
 
 This is the second line.
