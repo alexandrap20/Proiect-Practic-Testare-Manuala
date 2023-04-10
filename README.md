@@ -17,6 +17,13 @@
 |__Bold Key__| Value1 |
 | Normal Key | Value2 |
 
+
+| Normal  | key  |
+|---|---|
+| Normal Key | Value1 |
+| Normal Key | Value2 |
+
+
 |This|is|
 |---|---|
 |Some |table |
