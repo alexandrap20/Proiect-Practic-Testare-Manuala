@@ -30,6 +30,17 @@
 | Bob           | Test2         | Toronto  |
 
 
+Right align     ---:
+Left align       :---
+Center align    :---:
+
+
+| FirstName     | LastName      | City  |
+| :------------ |   :---:       | --------: |
+| `John`        | Test1         | `NewYork`   |
+| `Bob`         | Test2         | `Los Angeles`   |
+
+
 |This|is|
 |---|---|
 |Some |table |
