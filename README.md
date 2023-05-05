@@ -65,6 +65,8 @@ Italicized text is the *cat's meow*.
 
 ![Test image load](https://github.com/alexandrap20/Proiect-Practic-Testare-Manuala/blob/main/repo_git.PNG)
 
+![Image tests](https://github.com/alexandrap20/Proiect-Practic-Testare-Manuala/blob/main/repo_git.PNG)
+
 ## Risks:
 ### Project risks: 
 - lack of experience of the QA team 
@@ -85,5 +87,9 @@ This is the *[Markdown Guide](https://www.markdownguide.org)*.
 See the section on [`code`](#code).
 
 # <h1 align="center">Proiect-Practic-Testare Manuala<h1>
-
+     
+    
+    1. Introduction
+        1. Project Objective 
+        2. IFunctionalities in scope
 
