@@ -93,3 +93,12 @@ See the section on [`code`](#code).
         1. Project Objective 
         2. IFunctionalities in scope
 
+
+  <li>Introduction
+    <ol>
+      <li>Project Objective </li>
+      <li>IFunctionalities in scope</li>
+    </ol>
+  </li>
+
+
