@@ -90,8 +90,10 @@ See the section on [`code`](#code).
      
     
     1. Introduction
-        1. Project Objective 
-        2. IFunctionalities in scope
+    
+            1.1 Project Objective 
+            
+            1.2 IFunctionalities in scope
 
 
   <li>Introduction
