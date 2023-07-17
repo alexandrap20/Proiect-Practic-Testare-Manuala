@@ -93,7 +93,7 @@ See the section on [`code`](#code).
     
             1.1 Project Objective 
             
-            1.2 IFunctionalities in scope
+            1.2 Functionalities in scope
 
 
   <li>Introduction
