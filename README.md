@@ -82,6 +82,21 @@ Italicized text is the *cat's meow*.
 - new browser might not be supported
 
 
+## Entry criteria:
+- smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
+- testing environment is up and running
+- roles and responsibilities for the project are allocated 
+- functional business specifications are defined
+  
+## Exit criteria:
+- 100% of tests are executed 
+- 90% of tests are passed
+- no Critical defects have Open status
+- User Add functionality tests are 100% passed
+- Exploratory testing was performed on Admin module
+
+
+
 
 Link catre fisier [Git repo screenshot](https://github.com/alexandrap20/Proiect-Practic-Testare-Manuala/blob/main/repo_git.PNG)
 
