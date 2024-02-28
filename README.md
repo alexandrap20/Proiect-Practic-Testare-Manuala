@@ -72,7 +72,16 @@ Italicized text is the *cat's meow*.
 - lack of experience of the QA team 
 - only one QA in the QA team 
 - unavailability of the test environment 
-- short deadline of Zephyr Squad and Jira tools 
+- short deadline of Zephyr Squad and Jira tools
+
+## Risks:
+- stability risks (crashes, disconnects, etc)
+- IE browser might have performance issues
+- the web page pagination could be impacted when opened on mobile devices
+- stress conditions might impact the web application
+- new browser might not be supported
+
+
 
 Link catre fisier [Git repo screenshot](https://github.com/alexandrap20/Proiect-Practic-Testare-Manuala/blob/main/repo_git.PNG)
 
